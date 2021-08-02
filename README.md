@@ -10,7 +10,7 @@
 * [前端构建 DevOps - 搭建 DevOps 基础平台（中）](https://www.jianshu.com/p/f7bb0262794b)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（下）](https://www.jianshu.com/p/2c7e09fd52de)
 * [DevOps：10本DevOps推荐书及47个DevOps兼容工具](https://www.jianshu.com/p/60f397b9f242)  
- 
+* [DevOps&SRE 演讲实录|经验+案例，教你如何打造易用 DevOps 工具链](https://www.jianshu.com/p/091f9b098218) 
  # 目录
  
  * 设计工具
