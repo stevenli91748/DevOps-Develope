@@ -26,7 +26,9 @@
  * 运维工具
  * DevOps综合工具平台
 
+# 视频
 
+* [DevOps Course | DevOps Training | DevOps Tutorial For Beginners | Intellipaat](https://www.youtube.com/watch?v=q-INRVtT3Rs)
 
 # 有用的参考
  颜延吉 JAVA架构之完美设计：实战经典.pdf
