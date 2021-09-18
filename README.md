@@ -5,7 +5,7 @@
 
 # 在线书籍
 * [DevOps实践指南](https://weread.qq.com/web/reader/06a32470717db78906a55d1)
-
+* [DevOps入门与实践](https://weread.qq.com/web/reader/a4732c9071c9560ea476a9b)
 ---
 
 * [搭建DevOps模式的项目](https://juejin.cn/post/6844904062081564679)
