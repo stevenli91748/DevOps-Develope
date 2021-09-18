@@ -3,7 +3,10 @@
 <a href="https://ibb.co/LPN6g4h"><img src="https://i.ibb.co/dcm6pnJ/JAVA-2019-Java-Spring-Java.png" alt="JAVA-2019-Java-Spring-Java" border="0"></a>
 <a href="https://ibb.co/Vx8g66x"><img src="https://i.ibb.co/1MxrccM/JAVA-2019-Java-Spring-Java1.png" alt="JAVA-2019-Java-Spring-Java1" border="0"></a>
 
+# 在线书籍
+* [DevOps实践指南](https://weread.qq.com/web/reader/06a32470717db78906a55d1)
 
+---
 
 * [搭建DevOps模式的项目](https://juejin.cn/post/6844904062081564679)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（上）](https://www.jianshu.com/p/2ed8c808b654)
