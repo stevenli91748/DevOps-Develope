@@ -8,12 +8,19 @@
 * [DevOps入门与实践](https://weread.qq.com/web/reader/a4732c9071c9560ea476a9b)
 ---
 
+# 博客
+
+* [DevOps教程](https://www.yiibai.com/devops)
+
+
+
 * [搭建DevOps模式的项目](https://juejin.cn/post/6844904062081564679)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（上）](https://www.jianshu.com/p/2ed8c808b654)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（中）](https://www.jianshu.com/p/f7bb0262794b)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（下）](https://www.jianshu.com/p/2c7e09fd52de)
 * [DevOps：10本DevOps推荐书及47个DevOps兼容工具](https://www.jianshu.com/p/60f397b9f242)  
 * [DevOps&SRE 演讲实录|经验+案例，教你如何打造易用 DevOps 工具链](https://www.jianshu.com/p/091f9b098218) 
+ 
  # 目录
  
  * 设计工具
