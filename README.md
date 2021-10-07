@@ -6,6 +6,8 @@
 # 在线书籍
 * [DevOps实践指南](https://weread.qq.com/web/reader/06a32470717db78906a55d1)
 * [DevOps入门与实践](https://weread.qq.com/web/reader/a4732c9071c9560ea476a9b)
+* [OpenStack CI/CD: 原理与实践](https://weread.qq.com/web/reader/e9132c4071696f42e919c8d)
+
 ---
 
 # 博客
