@@ -12,7 +12,8 @@
 
 # 博客
 
-* [DevOps教程](https://www.yiibai.com/devops)
+ [DevOps教程](https://www.yiibai.com/devops)|[DevOps 面试问题](https://github.com/bregman-arie/devops-exercises/blob/master/README-zh_CN.md)|
+ ---|---|
 
 
 
