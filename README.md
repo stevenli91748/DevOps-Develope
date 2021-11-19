@@ -6,8 +6,11 @@
 # 在线书籍
 * [DevOps实践指南](https://weread.qq.com/web/reader/06a32470717db78906a55d1)
 * [DevOps入门与实践](https://weread.qq.com/web/reader/a4732c9071c9560ea476a9b)
+* [DevOps和自动化运维实践](https://weread.qq.com/web/reader/34732820716649083470c33)
 * [OpenStack CI/CD: 原理与实践](https://weread.qq.com/web/reader/e9132c4071696f42e919c8d)
 * [敏捷测试：以持续测试促进持续交付](https://weread.qq.com/web/reader/77532d30726fa05a775eaed)
+* [OpenShift在企业中的实践： Paas DevOps微服务（第2版）](https://weread.qq.com/web/reader/cb832e107273307fcb8253d)
+* [企业级DevOps技术与工具实战](https://weread.qq.com/web/reader/0c8324607274b49e0c8e931)
 ---
 
 # 博客
