@@ -11,6 +11,7 @@
 * [敏捷测试：以持续测试促进持续交付](https://weread.qq.com/web/reader/77532d30726fa05a775eaed)
 * [OpenShift在企业中的实践： Paas DevOps微服务（第2版）](https://weread.qq.com/web/reader/cb832e107273307fcb8253d)
 * [企业级DevOps技术与工具实战](https://weread.qq.com/web/reader/0c8324607274b49e0c8e931)
+* [大规模组织DevOps实践](https://weread.qq.com/web/reader/9a932500718487889a9b818kc81322c012c81e728d9d180)
 ---
 
 # 博客
