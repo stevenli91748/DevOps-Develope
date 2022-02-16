@@ -49,5 +49,6 @@
 
 # 有用的参考
  颜延吉 JAVA架构之完美设计：实战经典.pdf
+* [从零开始搭建创业公司DevOps技术栈](https://mp.weixin.qq.com/s/QZMuF4ou-xVqjsTqtB0jeQ)
 * [github pages与travis ci运作原理](https://www.cnblogs.com/zhangnan35/p/10830010.html)
 * [如何使用travis-ci自动化构建部署GitHub Pages（gitbook）](https://blog.csdn.net/hanyajun0123/article/details/89533000)
