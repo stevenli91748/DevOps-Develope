@@ -4,6 +4,7 @@
 <a href="https://ibb.co/Vx8g66x"><img src="https://i.ibb.co/1MxrccM/JAVA-2019-Java-Spring-Java1.png" alt="JAVA-2019-Java-Spring-Java1" border="0"></a>
 
 # 在线书籍
+* [持续交付2.0：业务引领的DevOps精要（增订本）](https://weread.qq.com/web/reader/c9c321c07293508bc9c79df)
 * [DevOps实践指南](https://weread.qq.com/web/reader/06a32470717db78906a55d1)
 * [DevOps入门与实践](https://weread.qq.com/web/reader/a4732c9071c9560ea476a9b)
 * [DevOps和自动化运维实践](https://weread.qq.com/web/reader/34732820716649083470c33)
