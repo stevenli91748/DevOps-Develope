@@ -26,7 +26,7 @@
  ---|---|---|
 
 
-
+* [2021年的DevOps趋势预测](https://mp.weixin.qq.com/s/p0J2VKPYsk6-VOiUNvzpjA)
 * [搭建DevOps模式的项目](https://juejin.cn/post/6844904062081564679)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（上）](https://www.jianshu.com/p/2ed8c808b654)
 * [前端构建 DevOps - 搭建 DevOps 基础平台（中）](https://www.jianshu.com/p/f7bb0262794b)
