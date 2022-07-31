@@ -15,6 +15,11 @@
 * [大规模组织DevOps实践](https://weread.qq.com/web/reader/9a932500718487889a9b818kc81322c012c81e728d9d180)
 ---
 
+# 视频
+* [如何有效的实施DevOps流水线 Jenkins系统运维与应用流水线即代码，共享库实践](https://edu.51cto.com/center/course/lesson/index?id=744343)
+* []()
+* []()
+
 # 博客
 
  [DevOps教程](https://www.yiibai.com/devops)|[DevOps 面试问题](https://github.com/bregman-arie/devops-exercises/blob/master/README-zh_CN.md)|[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|
